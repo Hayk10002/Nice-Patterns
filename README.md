@@ -5,7 +5,7 @@ that's where i got the idea for this project ---> <https://youtu.be/qhbuKbxJsk8>
 
 ## Controls
 
-Àt the beginning you need to enter the number of points in console and press enter.
+at the beginning you need to enter the number of points in console and press enter.
 
 Then when the animation starts 
 
