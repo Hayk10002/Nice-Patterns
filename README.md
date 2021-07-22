@@ -1,7 +1,7 @@
 # Intro
 This is a programm code that makes nice patterns with [SFML](https://sfml-dev.org).
 
-Òhat's where i got the idea for this project ---> <https://youtu.be/qhbuKbxJsk8>.
+that's where i got the idea for this project ---> <https://youtu.be/qhbuKbxJsk8>.
 
 ## Controls
 
